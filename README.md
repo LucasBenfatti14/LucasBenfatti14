@@ -81,8 +81,8 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
 <h2>📊 Estatísticas</h2>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasBenfatti14&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=LucasBenfatti14&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBenfatti14&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <h2>🌐 Portfólio</h2>
