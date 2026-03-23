@@ -22,6 +22,44 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
 💡 Interessado em entender como sistemas funcionam por trás das interfaces, com foco em lógica, automação e construção de aplicações reais.
 </p>
 
+---
+
+<h2 align="center">🔥 Projetos em destaque</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <h3>⚙️ Monitoramento de Sistema</h3>
+      <p>Script em Bash que monitora o uso de CPU, memória e recursos do sistema em tempo real.</p>
+      <a href="https://github.com/LucasBenfatti14/Script_Bash_MonitoramentoDeSistema">🔗 Ver projeto</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3>📊 Processamento de Logs</h3>
+      <p>Automação em Bash para leitura, filtragem e análise de arquivos de log.</p>
+      <a href="https://github.com/LucasBenfatti14/Script_Bash_ProcessamentoDeArquivosDeLogs">🔗 Ver projeto</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3>🌐 Portfólio Pessoal</h3>
+      <p>Site desenvolvido para apresentar meus projetos e evolução como desenvolvedor.</p>
+      <a href="https://portfolio-hq5o4ijj6-lucasbenfatti14s-projects.vercel.app/">🔗 Acessar</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3>📚 AluraBooks</h3>
+      <p>Projeto front-end responsivo desenvolvido durante estudos, focado em layout e experiência do usuário.</p>
+      <a href="https://github.com/LucasBenfatti14/AluraBooks">🔗 Ver projeto</a>
+    </td>
+  </tr>
+</table>
+
 <p align="center">
   <img src="https://github.com/LucasBenfatti14/LucasBenfatti14/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
