@@ -22,6 +22,10 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
 💡 Interessado em entender como sistemas funcionam por trás das interfaces, com foco em lógica, automação e construção de aplicações reais.
 </p>
 
+<p align="center">
+  <img src="https://github.com/LucasBenfatti14/LucasBenfatti14/blob/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 <h3>🖥️ Desenvolvimento</h3>
@@ -42,7 +46,6 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasBenfatti14&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://streak-stats.demolab.com?user=LucasBenfatti14&theme=tokyonight&hide_border=true" />
 </p>
----
 
 <h2>🌐 Portfólio</h2>
 
@@ -57,7 +60,7 @@ Acesse meu portfólio completo</a>
 
 <p>
   📧 Email: lucasabenfatti@gmail.com <br>
-  💼 LinkedIn: <a href="www.linkedin.com/in/lucasbenfatti" target="_blank"> Acesse meu LinkedIn </a>
+  💼 LinkedIn: <a href="[https://www.linkedin.com/in/lucasbenfatti" target="_blank"> Acesse meu LinkedIn </a>
 </p>
 
 ---
