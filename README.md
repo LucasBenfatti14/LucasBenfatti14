@@ -98,7 +98,7 @@ Acesse meu portfólio completo</a>
 
 <p>
   📧 Email: lucasabenfatti@gmail.com <br>
-  💼 LinkedIn: <a href="[https://www.linkedin.com/in/lucasbenfatti" target="_blank"> Acesse meu LinkedIn </a>
+  💼 LinkedIn: <a href="https://www.linkedin.com/in/lucasbenfatti" target="_blank"> Acesse meu LinkedIn </a>
 </p>
 
 ---
