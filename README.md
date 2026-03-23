@@ -29,33 +29,33 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
 <table align="center">
   <tr>
     <td>
-      <h3>⚙️ Monitoramento de Sistema</h3>
+      <h3>⚙️ System Monitoring Bash</h3>
       <p>Script em Bash que monitora o uso de CPU, memória e recursos do sistema em tempo real.</p>
-      <a href="https://github.com/LucasBenfatti14/Script_Bash_MonitoramentoDeSistema">🔗 Ver projeto</a>
+      <a href="https://github.com/LucasBenfatti14/system-monitoring-bash">🔗 Ver projeto</a>
     </td>
   </tr>
 
   <tr>
     <td>
-      <h3>📊 Processamento de Logs</h3>
+      <h3>📊 Log Processing Bash</h3>
       <p>Automação em Bash para leitura, filtragem e análise de arquivos de log.</p>
-      <a href="https://github.com/LucasBenfatti14/Script_Bash_ProcessamentoDeArquivosDeLogs">🔗 Ver projeto</a>
+      <a href="https://github.com/LucasBenfatti14/log-processing-bash">🔗 Ver projeto</a>
     </td>
   </tr>
 
   <tr>
     <td>
-      <h3>🌐 Portfólio Pessoal</h3>
+      <h3>🌐 Personal Portfolio</h3>
       <p>Site desenvolvido para apresentar meus projetos e evolução como desenvolvedor.</p>
-      <a href="https://github.com/LucasBenfatti14/Portfolio">🔗 Acessar</a>
+      <a href="https://github.com/LucasBenfatti14/personal-portfolio">🔗 Acessar</a>
     </td>
   </tr>
 
   <tr>
     <td>
-      <h3>📚 AluraBook</h3>
+      <h3>📚 AluraBooks Landing Page</h3>
       <p>Projeto front-end responsivo desenvolvido durante estudos, focado em layout e experiência do usuário.</p>
-      <a href="https://github.com/LucasBenfatti14/alurabook">🔗 Ver projeto</a>
+      <a href="https://github.com/LucasBenfatti14/alurabooks-landing-page">🔗 Ver projeto</a>
     </td>
   </tr>
 </table>
