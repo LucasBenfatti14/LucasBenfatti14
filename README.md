@@ -47,15 +47,15 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
     <td>
       <h3>🌐 Portfólio Pessoal</h3>
       <p>Site desenvolvido para apresentar meus projetos e evolução como desenvolvedor.</p>
-      <a href="https://portfolio-hq5o4ijj6-lucasbenfatti14s-projects.vercel.app/">🔗 Acessar</a>
+      <a href="https://github.com/LucasBenfatti14/Portfolio">🔗 Acessar</a>
     </td>
   </tr>
 
   <tr>
     <td>
-      <h3>📚 AluraBooks</h3>
+      <h3>📚 AluraBook</h3>
       <p>Projeto front-end responsivo desenvolvido durante estudos, focado em layout e experiência do usuário.</p>
-      <a href="https://github.com/LucasBenfatti14/AluraBooks">🔗 Ver projeto</a>
+      <a href="https://github.com/LucasBenfatti14/alurabook">🔗 Ver projeto</a>
     </td>
   </tr>
 </table>
