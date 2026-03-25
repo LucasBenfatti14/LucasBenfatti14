@@ -88,7 +88,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
 <h2>🌐 Portfólio</h2>
 
 <p>
-👉 <a href="https://portfolio-hq5o4ijj6-lucasbenfatti14s-projects.vercel.app/" target="_blank">
+👉 <a href="https://portfolio-idhfq6pbn-lucasbenfatti14s-projects.vercel.app" target="_blank">
 Acesse meu portfólio completo</a>
 </p>
 
