@@ -14,7 +14,7 @@
 <h2>🚀 Sobre mim</h2>
 
 <p>
-Sou um desenvolvedor em constante evolução, com foco em construir sistemas reais e resolver problemas práticos.
+Sou um desenvolvedor backend em constante evolução, com foco em construir sistemas reais e resolver problemas práticos.
 Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, versionamento de código e lógica de programação.
 </p>
 
