@@ -29,9 +29,9 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
 <table align="center">
   <tr>
     <td>
-      <h3>⚙️ System Monitoring Bash</h3>
-      <p>Script em Bash que monitora o uso de CPU, memória e recursos do sistema em tempo real.</p>
-      <a href="https://github.com/LucasBenfatti14/system-monitoring-bash">🔗 Ver projeto</a>
+      <h3>🧮 Binary Calculator</h3>
+      <p>Projeto pessoal focado na construção da soma binária do zero, sem uso de conversões prontas.</p>
+      <a href="https://github.com/LucasBenfatti14/binary-calculator-python">🔗 Ver projeto</a>
     </td>
   </tr>
 
@@ -45,9 +45,9 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
 
   <tr>
     <td>
-      <h3>🌐 Personal Portfolio</h3>
-      <p>Site desenvolvido para apresentar meus projetos e evolução como desenvolvedor.</p>
-      <a href="https://github.com/LucasBenfatti14/personal-portfolio">🔗 Acessar</a>
+      <h3>⚙️ System Monitoring Bash</h3>
+      <p>Script em Bash que monitora o uso de CPU, memória e recursos do sistema em tempo real.</p>
+      <a href="https://github.com/LucasBenfatti14/system-monitoring-bash">🔗 Ver projeto</a>
     </td>
   </tr>
 
