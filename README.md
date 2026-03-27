@@ -68,7 +68,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
 
 <h3>🖥️ Desenvolvimento</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css" />
+  <img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
 <h3>⚙️ Ambiente & Ferramentas</h3>
