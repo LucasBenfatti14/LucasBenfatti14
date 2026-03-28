@@ -1,11 +1,18 @@
+<p align="center">
+  <img src="https://github.com/LucasBenfatti14/LucasBenfatti14/blob/main/banner%20-%20Copia.jpg?raw=true" 
+       alt="banner" 
+       width="100%" 
+       style="max-height: 250px; object-fit: cover;">
+</p>
+
+---
+
 <h1 align="center">👋 Olá, eu sou o Lucas Benfatti</h1>
 
 <p align="center">
   💻 Desenvolvedor em formação focado em Back-end <br>
   📍 Santos - SP <br>
 </p>
-
----
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=$+Desenvolvedor+Back-end...;$+Construindo+projetos+reais...;$+Backend+Developer+em+formação;$+Sempre+evoluindo+🚀" />
