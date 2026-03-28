@@ -89,9 +89,13 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
 
 <h2>🌐 Portfólio</h2>
 
-<p>
-👉 <a href="https://lucasbenfatti14.github.io/personal-portfolio/" target="_blank">
-Acesse meu portfólio completo</a>
+
+<p align="center">
+
+  <p align="center">
+  <a href="https://lucasbenfatti14.github.io/personal-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/👉%20Acessar%20Portfólio-0B4912?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000">
+  </a>
 </p>
 
 ---
