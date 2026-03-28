@@ -82,7 +82,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LucasBenfatti14&theme=highcontrast&border_radius=14&card_width=495&card_height=195&border=07300C&stroke=0B4912&fire=843300&ring=686868&currStreakNum=CCD8CD&sideNums=CCD8CD&currStreakLabel=1BB320C2&background=45%2C272727%2C000000&sideLabels=CDCDCC&dates=EBEBEB5D" alt="GitHub Streak" /></a>
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasBenfatti14&layout=compact&bg_color=45%2C272727%2C000000&title_color=CCD8CD&text_color=CDCDCC&icon_color=0B4912&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasBenfatti14&layout=compact&bg_color=45%2C272727%2C000000&title_color=CCD8CD&text_color=CDCDCC&icon_color=0B4912&hide_border=true"/>
 </p>
 
 <h2>🌐 Portfólio</h2>
