@@ -82,7 +82,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LucasBenfatti14&theme=highcontrast&border_radius=14&card_width=500&card_height=200&border=07300C&stroke=0B4912&fire=843300&ring=686868&currStreakNum=CCD8CD&sideNums=CCD8CD&currStreakLabel=1BB320C2&background=45%2C272727%2C000000&sideLabels=CDCDCC&dates=EBEBEB5D" alt="GitHub Streak" /></a>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBenfatti14&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasBenfatti14&layout=compact&bg_color=45%2C272727%2C000000&title_color=CCD8CD&text_color=CDCDCC&icon_color=0B4912&hide_border=true"/>
 </p>
 
 <h2>🌐 Portfólio</h2>
@@ -96,9 +96,22 @@ Acesse meu portfólio completo</a>
 
 <h2>📫 Contato</h2>
 
-<p>
-  📧 Email: lucasabenfatti@gmail.com <br>
-  💼 LinkedIn: <a href="https://www.linkedin.com/in/lucasbenfatti" target="_blank"> Acesse meu LinkedIn </a>
+<p align="left">
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin-in&logoColor=white">
+</a>
+  
+  <a href="mailto:lucasabenfatti@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+
+  <a href="https://discord.com/users/SEU-ID-DISCORD">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+  
+  <a href="https://www.instagram.com/LucasBenfatti" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </p>
 
 ---
