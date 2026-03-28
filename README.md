@@ -81,7 +81,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
 <h2>📊 Estatísticas</h2>
 
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=LucasBenfatti14&theme=tokyonight&hide_border=true" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=LucasBenfatti14&theme=highcontrast&border_radius=14&card_width=500&card_height=200&border=07300C&stroke=0B4912&fire=843300&ring=686868&currStreakNum=CCD8CD&sideNums=CCD8CD&currStreakLabel=1BB320C2&background=45%2C272727%2C000000&sideLabels=CDCDCC&dates=EBEBEB5D" alt="GitHub Streak" /></a>
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBenfatti14&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
