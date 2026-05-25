@@ -82,6 +82,11 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, version
   <img src="https://skillicons.dev/icons?i=python,html,css" />
 </p>
 
+<h3>🗄️ Banco de Dados</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
 <h3>⚙️ Ambiente & Ferramentas</h3>
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,pycharm" />
