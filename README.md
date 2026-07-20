@@ -22,7 +22,7 @@
 
 <p>
 Sou um desenvolvedor backend em constante evolução, com foco em construir sistemas reais e resolver problemas práticos.
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, versionamento de código e lógica de programação.
+Atualmente estou aprofundando meus conhecimentos em desenvolvimento e consumo de APIs REST.
 </p>
 
 <p>
