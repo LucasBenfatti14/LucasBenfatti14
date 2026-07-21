@@ -36,33 +36,33 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento e consumo de
 <table align="center">
   <tr>
     <td>
-      <h3>🧮 Binary Calculator</h3>
-      <p>Projeto pessoal focado na construção da soma binária do zero, sem uso de conversões prontas.</p>
+      <h3>📊 Users Manager</h3>
+      <p>Sistema CRUD em Python para gerenciamento de pessoas, com interface em terminal.</p>
+      <a href="https://github.com/LucasBenfatti14/users-manager">🔗 Ver projeto</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3>🏦 Python Bank Account (OOP)</h3>
+      <p>Sistema de conta bancária desenvolvido em Python utilizando Programação Orientada a Objetos.</p>
+      <a href="https://github.com/LucasBenfatti14/python-bank-account-oop">🔗 Ver projeto</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3>🔢 Number Base Converter</h3>
+      <p>Conversor de bases numéricas com implementação manual dos algoritmos de conversão de decimal para binário, octal e hexadecimal.</p>
+      <a href="https://github.com/LucasBenfatti14/number-base-converter">🔗 Ver projeto</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <h3>🧮 Binary Calculator Python</h3>
+      <p>Calculadora binária em Python com implementação manual da soma bit a bit e controle de carry, simulando lógica de baixo nível.</p>
       <a href="https://github.com/LucasBenfatti14/binary-calculator-python">🔗 Ver projeto</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <h3>📊 Log Processing Bash</h3>
-      <p>Automação em Bash para leitura, filtragem e análise de arquivos de log.</p>
-      <a href="https://github.com/LucasBenfatti14/log-processing-bash">🔗 Ver projeto</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <h3>⚙️ System Monitoring Bash</h3>
-      <p>Script em Bash que monitora o uso de CPU, memória e recursos do sistema em tempo real.</p>
-      <a href="https://github.com/LucasBenfatti14/system-monitoring-bash">🔗 Ver projeto</a>
-    </td>
-  </tr>
-
-  <tr>
-    <td>
-      <h3>📚 AluraBooks Landing Page</h3>
-      <p>Projeto front-end responsivo desenvolvido durante estudos, focado em layout e experiência do usuário.</p>
-      <a href="https://github.com/LucasBenfatti14/alurabooks-landing-page">🔗 Ver projeto</a>
     </td>
   </tr>
 </table>
