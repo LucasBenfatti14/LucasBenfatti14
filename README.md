@@ -37,7 +37,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento e consumo de
   <tr>
     <td>
       <h3>📊 Users Manager</h3>
-      <p>Sistema CRUD em Python para gerenciamento de pessoas, com interface em terminal.</p>
+      <p>Sistema CRUD em Python com banco de dados SQLite para gerenciamento de pessoas, com interface em terminal.</p>
       <a href="https://github.com/LucasBenfatti14/users-manager">🔗 Ver projeto</a>
     </td>
   </tr>
@@ -84,7 +84,7 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento e consumo de
 
 <h3>🗄️ Banco de Dados</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
 </p>
 
 <h3>⚙️ Ambiente & Ferramentas</h3>
