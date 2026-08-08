@@ -11,7 +11,7 @@
 
 <p align="center">
   💻 Desenvolvedor em formação focado em Back-end <br>
-  📍 Santos - SP <br>
+  📍 São Paulo <br>
 </p>
 
 <p align="center">
