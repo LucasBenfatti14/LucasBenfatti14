@@ -84,12 +84,12 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento e consumo de
 
 <h3>🗄️ Banco de Dados</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=sqlite,mysql" />
+  <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" />
 </p>
 
 <h3>⚙️ Ambiente & Ferramentas</h3>
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,bash,linux,vscode,pycharm" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,bash,linux,vscode,pycharm" />
 </p>
 
 ---
