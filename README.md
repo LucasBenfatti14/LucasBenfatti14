@@ -10,13 +10,13 @@
 <h1 align="center">👋 Olá, eu sou o Lucas Benfatti</h1>
 
 <p align="center">
-  💻 Desenvolvedor Back-end em formação <br>
+  💻 Desenvolvedor Back-end <br>
   🎓 Engenharia de Software @ FIAP <br>
   📍 São Paulo, Brasil
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=$+Desenvolvedor+Back-end...;$+Construindo+projetos+reais...;$+Estudando+arquitetura+de+software...;$+Sempre+evoluindo+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=22&center=true&vCenter=true&width=600&lines=$+Desenvolvedor+Back-end...;$+Construindo+projetos+reais...;+$+Sempre+evoluindo+🚀" />
 </p>
 
 ---
@@ -24,15 +24,15 @@
 <h2>🚀 Sobre mim</h2>
 
 <p>
-Sou estudante de Engenharia de Software na FIAP e desenvolvedor em formação, com foco em desenvolvimento Back-end.
+Sou estudante de <b>Engenharia de Software na FIAP</b> com foco total em desenvolvimento <b>Back-end</b>.
 </p>
 
 <p>
-Atualmente, venho aprofundando meus conhecimentos em Python, APIs REST, FastAPI, bancos de dados e arquitetura de software, buscando transformar conceitos estudados em projetos práticos.
+Possuo vivência de mercado prévia atuando de forma autônoma na entrega de projetos para clientes reais. Essa experiência me trouxe forte base em comunicação, levantamento de requisitos e resolução de problemas — habilidades que hoje dedico integralmente à engenharia de software e ao ecossistema Back-end.
 </p>
 
 <p>
-💡 Tenho interesse em entender não apenas como fazer um sistema funcionar, mas também como estruturá-lo para facilitar sua manutenção, evolução e reutilização.
+💡 Construo aplicações focando não apenas em fazê-las funcionar, mas em estruturá-las para facilitar a manutenção e a escalabilidade. Tenho experiência prática no desenvolvimento de APIs RESTful utilizando <b>Python, FastAPI, Pydantic, PostgreSQL e SQLite</b>, aplicando princípios <b>SOLID, Clean Code, arquitetura em camadas</b> e garantindo a qualidade através de <b>testes automatizados com Pytest</b>.
 </p>
 
 ---
@@ -42,10 +42,9 @@ Atualmente, venho aprofundando meus conhecimentos em Python, APIs REST, FastAPI,
 <table align="center">
   <tr>
     <td>
-      <h3>📋 Users Manager</h3>
+      <h3>📋 Users Management System</h3>
       <p>
-        Sistema CRUD em Python que evoluiu de uma aplicação CLI para uma API REST com FastAPI,
-        PostgreSQL e arquitetura em camadas.
+        API REST construída com <b>FastAPI e Python</b>. Implementa persistência de dados com PostgreSQL/SQLite, validações com Pydantic (DTOs), arquitetura em camadas e cobertura de testes automatizados (Pytest).
       </p>
       <a href="https://github.com/LucasBenfatti14/users-manager">🔗 Ver projeto</a>
     </td>
@@ -53,10 +52,9 @@ Atualmente, venho aprofundando meus conhecimentos em Python, APIs REST, FastAPI,
 
   <tr>
     <td>
-      <h3>🏦 Python Bank Account</h3>
+      <h3>🏦 Object-Oriented Banking System</h3>
       <p>
-        Sistema de conta bancária desenvolvido em Python utilizando Programação Orientada a Objetos,
-        com foco em encapsulamento e organização do código.
+        Sistema bancário focado em <b>POO (Programação Orientada a Objetos)</b> em Python. Aplica conceitos de encapsulamento, tratamento de exceções, validação de regras de negócio e hash de senhas (SHA-256).
       </p>
       <a href="https://github.com/LucasBenfatti14/python-bank-account-oop">🔗 Ver projeto</a>
     </td>
@@ -66,8 +64,7 @@ Atualmente, venho aprofundando meus conhecimentos em Python, APIs REST, FastAPI,
     <td>
       <h3>🧮 Binary Calculator Python</h3>
       <p>
-        Calculadora binária desenvolvida em Python com implementação manual da soma bit a bit
-        e controle de carry.
+        Calculadora binária desenvolvida em Python com implementação manual da soma bit a bit e controle de carry (vai-um).
       </p>
       <a href="https://github.com/LucasBenfatti14/binary-calculator-python">🔗 Ver projeto</a>
     </td>
@@ -77,8 +74,7 @@ Atualmente, venho aprofundando meus conhecimentos em Python, APIs REST, FastAPI,
     <td>
       <h3>🔢 Number Base Converter</h3>
       <p>
-        Conversor de bases numéricas com implementação manual dos algoritmos de conversão
-        entre decimal, binário, octal e hexadecimal.
+        Conversor numérico com implementação manual dos algoritmos de conversão estruturada entre bases decimal, binária, octal e hexadecimal.
       </p>
       <a href="https://github.com/LucasBenfatti14/number-base-converter">🔗 Ver projeto</a>
     </td>
@@ -87,7 +83,7 @@ Atualmente, venho aprofundando meus conhecimentos em Python, APIs REST, FastAPI,
 
 ---
 
-<h2>🛠️ Tecnologias</h2>
+<h2>🛠️ Tecnologias & Ferramentas</h2>
 
 <h3>💻 Back-end & Desenvolvimento</h3>
 
@@ -109,14 +105,14 @@ Atualmente, venho aprofundando meus conhecimentos em Python, APIs REST, FastAPI,
 
 ---
 
-<h2>📚 Atualmente estudando</h2>
+<h2>📚 Focos de Estudo e Domínio</h2>
 
 <ul>
-  <li>🐍 Python e Programação Orientada a Objetos</li>
-  <li>🌐 APIs REST e FastAPI</li>
-  <li>🗄️ SQL e bancos de dados relacionais</li>
-  <li>🏗️ Arquitetura de software e separação de responsabilidades</li>
-  <li>🧩 Boas práticas, SOLID e Clean Code</li>
+  <li>🐍 <b>Python & POO:</b> Tipagem, encapsulamento e estruturas de dados.</li>
+  <li>🌐 <b>APIs RESTful:</b> Desenvolvimento escalável com FastAPI e Pydantic.</li>
+  <li>🧪 <b>Qualidade de Software:</b> Testes unitários, de integração e fixtures com Pytest.</li>
+  <li>🏗️ <b>Arquitetura:</b> Separação de responsabilidades e arquitetura em camadas.</li>
+  <li>🧩 <b>Boas Práticas:</b> SOLID, Clean Code e Tratamento avançado de exceções.</li>
 </ul>
 
 ---
@@ -125,9 +121,8 @@ Atualmente, venho aprofundando meus conhecimentos em Python, APIs REST, FastAPI,
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img width="50%" src="https://streak-stats.demolab.com?user=LucasBenfatti14&theme=highcontrast&border_radius=14&card_width=450&card_height=180&border=07300C&stroke=0B4912&fire=843300&ring=686868&currStreakNum=CCD8CD&sideNums=CCD8CD&currStreakLabel=1BB320C2&background=45%2C272727%2C000000&sideLabels=CDCDCC&dates=EBEBEB5D"/>
+    <img width="60%" src="https://streak-stats.demolab.com?user=LucasBenfatti14&theme=highcontrast&border_radius=14&card_width=450&card_height=180&border=07300C&stroke=0B4912&fire=843300&ring=686868&currStreakNum=CCD8CD&sideNums=CCD8CD&currStreakLabel=1BB320C2&background=45%2C272727%2C000000&sideLabels=CDCDCC&dates=EBEBEB5D"/>
   </a>
-  <img width="35%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=LucasBenfatti14&layout=compact&bg_color=45%2C272727%2C000000&title_color=CCD8CD&text_color=CDCDCC&icon_color=0B4912&hide_border=true"/>
 </p>
 
 ---
@@ -162,13 +157,11 @@ Atualmente, venho aprofundando meus conhecimentos em Python, APIs REST, FastAPI,
 <h2>🎯 Objetivo</h2>
 
 <p>
-Busco minha primeira oportunidade de estágio em tecnologia, especialmente em desenvolvimento Back-end,
-onde possa aplicar meus conhecimentos, aprender com profissionais experientes e continuar evoluindo
-na construção de software.
+Busco minha primeira oportunidade de estágio em tecnologia voltada ao <b>desenvolvimento Back-end</b>. Quero aplicar minha experiência em entregas reais aliada à minha forte base técnica em Python, APIs e engenharia de software, colaborando para a construção de sistemas eficientes enquanto aprendo com profissionais experientes do mercado.
 </p>
 
 ---
 
 <p align="center">
-  <i>Construindo, estudando e evoluindo um projeto de cada vez. 🚀</i>
+  <i>Construindo, testando e evoluindo um projeto de cada vez. 🚀</i>
 </p>
